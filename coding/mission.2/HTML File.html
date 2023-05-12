@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Mission 2</title>
+  <style>
+    body {
+    background-color: lightblue;
+    padding: 30px:
+    }
+  </style>
+
+</head>
+
+<body>
+<script>
+  function checkPassword() {
+  var password = document.getElementById("passwordBox")
+  var passwordText = password.value;
+  if(passwordText == "T3ddypants"){
+    return true;
+  }
+  alert("Access denied!");
+    return false;
+}
+</script>
+<p style="font-size: 30px;">This is a login page who knows where it will go</p>
+
+<p>Password: <input id="passwordBox" type="password"/></p>
+<a href="mission1.html" onclick="return checkPassword();">
+  click to see if password is right
+</a>
+</body>
+
+</html>
+
