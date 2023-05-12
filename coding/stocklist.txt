@@ -1,0 +1,500 @@
+A	Agilent Technologies, Inc.	Diagnostics & Research	37.57B
+AA	Alcoa Corporation	Aluminum	6.29B
+AAC	Ares Acquisition Corporation	Shell Companies	750.21M
+AACG	ATA Creativity Global	Education & Training Services	53.38M
+AACI	Armada Acquisition Corp. I	Shell Companies	211.24M
+AACT	Ares Acquisition Corporation II	Shell Companies	570.38M
+AADI	Aadi Bioscience, Inc.	Biotechnology	171.55M
+AAIC	Arlington Asset Investment Corp.	REIT - Mortgage	74.02M
+AAL	American Airlines Group Inc.	Airlines	9.14B
+AAMC	Altisource Asset Management Corporation	Asset Management	141.38M
+AAME	Atlantic American Corporation	Insurance - Life	45.11M
+AAN	The Aaron's Company, Inc.	Rental & Leasing Services	383.89M
+AAOI	Applied Optoelectronics, Inc.	Semiconductors	49.92M
+AAON	AAON, Inc.	Building Products & Equipment	5.17B
+AAP	Advance Auto Parts, Inc.	Specialty Retail	7.31B
+AAPL	Apple Inc.	Consumer Electronics	2,718.39B
+AAT	American Assets Trust, Inc.	REIT - Diversified	1.44B
+AAU	Almaden Minerals Ltd.	Gold	15.16M
+AB	AllianceBernstein Holding L.P.	Asset Management	3.97B
+ABB	ABB Ltd	Electrical Equipment & Parts	68.76B
+ABBV	AbbVie Inc.	Drug Manufacturers - General	259.30B
+ABC	AmerisourceBergen Corporation	Medical Distribution	34.64B
+ABCB	Ameris Bancorp	Banks - Regional	1.99B
+ABCL	AbCellera Biologics Inc.	Biotechnology	1.64B
+ABCM	Abcam plc	Biotechnology	3.98B
+ABEO	Abeona Therapeutics Inc.	Biotechnology	57.28M
+ABEV	Ambev S.A.	Beverages - Brewers	45.74B
+ABG	Asbury Automotive Group, Inc.	Auto & Truck Dealerships	4.41B
+ABIO	ARCA biopharma, Inc.	Biotechnology	29.84M
+ABM	ABM Industries Incorporated	Specialty Business Services	2.86B
+ABNB	Airbnb, Inc.	Travel Services	68.26B
+ABOS	Acumen Pharmaceuticals, Inc.	Biotechnology	234.59M
+ABR	Arbor Realty Trust, Inc.	REIT - Mortgage	2.23B
+ABSI	Absci Corporation	Biotechnology	120.24M
+ABST	Absolute Software Corporation	Software - Application	597.89M
+ABT	Abbott Laboratories	Medical Devices	190.80B
+ABUS	Arbutus Biopharma Corporation	Biotechnology	418.66M
+ABVC	ABVC BioPharma, Inc.	Biotechnology	32.17M
+AC	Associated Capital Group, Inc.	Capital Markets	799.92M
+ACA	Arcosa, Inc.	Infrastructure Operations	3.30B
+ACAB	Atlantic Coastal Acquisition Corp. II	Shell Companies	112.86M
+ACAC	Acri Capital Acquisition Corporation	Shell Companies	114.07M
+ACAD	ACADIA Pharmaceuticals Inc.	Biotechnology	3.46B
+ACAH	Atlantic Coastal Acquisition Corp.	Shell Companies	124.62M
+ACAQ	Athena Consumer Acquisition Corp.	Shell Companies	257.44M
+ACAX	Alset Capital Acquisition Corp.	Shell Companies	116.38M
+ACB	Aurora Cannabis Inc.	Drug Manufacturers - Specialty & Generic	194.43M
+ACBA	Ace Global Business Acquisition Limited	Shell Companies	66.68M
+ACCD	Accolade, Inc.	Health Information Services	777.49M
+ACCO	ACCO Brands Corporation	Business Equipment & Supplies	495.94M
+ACDC	ProFrac Holding Corp.	Oil & Gas Equipment & Services	1.73B
+ACEL	Accel Entertainment, Inc.	Gambling	785.23M
+ACER	Acer Therapeutics Inc.	Biotechnology	18.13M
+ACET	Adicet Bio, Inc.	Biotechnology	276.63M
+ACGL	Arch Capital Group Ltd.	Insurance - Diversified	28.88B
+ACGN	Aceragen, Inc.	Biotechnology	13.31M
+ACHC	Acadia Healthcare Company, Inc.	Medical Care Facilities	6.59B
+ACHL	Achilles Therapeutics plc	Biotechnology	36.96M
+ACHR	Archer Aviation Inc.	Aerospace & Defense	499.38M
+ACHV	Achieve Life Sciences, Inc.	Biotechnology	156.35M
+ACI	Albertsons Companies, Inc.	Grocery Stores	11.63B
+ACIU	AC Immune SA	Biotechnology	177.28M
+ACIW	ACI Worldwide, Inc.	Software - Infrastructure	2.71B
+ACLS	Axcelis Technologies, Inc.	Semiconductor Equipment & Materials	4.09B
+ACLX	Arcellx, Inc.	Biotechnology	1.97B
+ACM	AECOM	Engineering & Construction	10.88B
+ACMR	ACM Research, Inc.	Semiconductor Equipment & Materials	570.28M
+ACN	Accenture plc	Information Technology Services	172.81B
+ACNB	ACNB Corporation	Banks - Regional	240.70M
+ACNT	Ascent Industries Co.	Steel	94.66M
+ACON	Aclarion, Inc.	Health Information Services	5.82M
+ACOR	Acorda Therapeutics, Inc.	Drug Manufacturers - Specialty & Generic	19.12M
+ACR	ACRES Commercial Realty Corp.	REIT - Mortgage	74.36M
+ACRE	Ares Commercial Real Estate Corporation	REIT - Mortgage	451.87M
+ACRO	Acropolis Infrastructure Acquisition Corp.	Shell Companies	437.29M
+ACRS	Aclaris Therapeutics, Inc.	Diagnostics & Research	561.19M
+ACRV	Acrivon Therapeutics, Inc.	Biotechnology	306.81M
+ACRX	AcelRx Pharmaceuticals, Inc.	Drug Manufacturers - Specialty & Generic	8.61M
+ACST	Acasti Pharma Inc.	Biotechnology	21.73M
+ACT	Enact Holdings, Inc.	Insurance - Specialty	3.84B
+ACTG	Acacia Research Corporation	Specialty Business Services	230.73M
+ACU	Acme United Corporation	Household & Personal Products	90.57M
+ACVA	ACV Auctions Inc.	Auto & Truck Dealerships	2.50B
+ACXP	Acurx Pharmaceuticals, Inc.	Biotechnology	35.83M
+ADAG	Adagene Inc.	Biotechnology	59.09M
+ADAP	Adaptimmune Therapeutics plc	Biotechnology	231.15M
+ADBE	Adobe Inc.	Software - Infrastructure	154.03B
+ADC	Agree Realty Corporation	REIT - Retail	6.20B
+ADCT	ADC Therapeutics SA	Biotechnology	193.14M
+ADD	Color Star Technology Co., Ltd.	Entertainment	10.34M
+ADEA	Adeia Inc.	Software - Application	943.81M
+ADER	26 Capital Acquisition Corp.	Shell Companies	110.01M
+ADES	Advanced Emissions Solutions, Inc.	Pollution & Treatment Controls	59.94M
+ADEX	Adit EdTech Acquisition Corp.	Shell Companies	96.95M
+ADI	Analog Devices, Inc.	Semiconductors	91.68B
+ADIL	Adial Pharmaceuticals, Inc.	Biotechnology	9.14M
+ADM	Archer-Daniels-Midland Company	Farm Products	41.03B
+ADMA	ADMA Biologics, Inc.	Biotechnology	903.44M
+ADMP	Adamis Pharmaceuticals Corporation	Drug Manufacturers - Specialty & Generic	13.32M
+ADN	Advent Technologies Holdings, Inc.	Utilities - Renewable	41.62M
+ADNT	Adient plc	Auto Parts	3.35B
+ADOC	Edoc Acquisition Corp.	Shell Companies	39.73M
+ADP	Automatic Data Processing, Inc.	Staffing & Employment Services	87.40B
+ADPT	Adaptive Biotechnologies Corporation	Biotechnology	938.02M
+ADRT	Ault Disruptive Technologies Corporation	Shell Companies	151.51M
+ADSE	ADS-TEC Energy PLC	Electrical Equipment & Parts	156.19M
+ADSK	Autodesk, Inc.	Software - Application	41.82B
+ADT	ADT Inc.	Security & Protection Services	5.46B
+ADTH	AdTheorent Holding Company, Inc.	Advertising Agencies	119.07M
+ADTN	ADTRAN Holdings, Inc.	Communication Equipment	648.73M
+ADTX	Aditxt, Inc.	Biotechnology	3.11M
+ADUS	Addus HomeCare Corporation	Medical Care Facilities	1.37B
+ADV	Advantage Solutions Inc.	Advertising Agencies	461.07M
+ADVM	Adverum Biotechnologies, Inc.	Biotechnology	82.38M
+ADXN	Addex Therapeutics Ltd	Biotechnology	12.89M
+AE	Adams Resources & Energy, Inc.	Oil & Gas Refining & Marketing	97.93M
+AEAE	AltEnergy Acquisition Corp.	Shell Companies	296.99M
+AEE	Ameren Corporation	Utilities - Regulated Electric	23.26B
+AEG	Aegon N.V.	Insurance - Diversified	8.99B
+AEHL	Antelope Enterprise Holdings Limited	Building Products & Equipment	19.79M
+AEHR	Aehr Test Systems	Semiconductor Equipment & Materials	787.52M
+AEI	Alset EHome International Inc.	Real Estate - Development	13.36M
+AEIS	Advanced Energy Industries, Inc.	Electrical Equipment & Parts	3.22B
+AEL	American Equity Investment Life Holding Company	Insurance - Life	3.05B
+AEM	Agnico Eagle Mines Limited	Gold	27.94B
+AEMD	Aethlon Medical, Inc.	Medical Devices	7.72M
+AENZ	Aenza S.A.A.	Engineering & Construction	177.15M
+AEO	American Eagle Outfitters, Inc.	Apparel Retail	2.57B
+AEP	American Electric Power Company, Inc.	Utilities - Regulated Electric	47.10B
+AER	AerCap Holdings N.V.	Rental & Leasing Services	13.35B
+AES	The AES Corporation	Utilities - Diversified	14.98B
+AESI	Atlas Energy Solutions Inc.	Oil & Gas Equipment & Services	979.52M
+AEVA	Aeva Technologies, Inc.	Auto Parts	227.00M
+AEY	ADDvantage Technologies Group, Inc.	Electronics & Computer Distribution	12.72M
+AEYE	AudioEye, Inc.	Software - Application	75.52M
+AEZS	Aeterna Zentaris Inc.	Biotechnology	14.57M
+AFAR	Aura FAT Projects Acquisition Corp	Shell Companies	152.87M
+AFBI	Affinity Bancshares, Inc.	Banks - Regional	82.48M
+AFCG	AFC Gamma, Inc.	REIT - Specialty	213.29M
+AFG	American Financial Group, Inc.	Insurance - Property & Casualty	9.88B
+AFIB	Acutus Medical, Inc.	Medical Devices	27.83M
+AFL	Aflac Incorporated	Insurance - Life	40.05B
+AFMD	Affimed N.V.	Biotechnology	129.85M
+AFRI	Forafric Global PLC	Farm Products	295.40M
+AFRM	Affirm Holdings, Inc.	Software - Infrastructure	3.55B
+AFTR	AfterNext HealthTech Acquisition Corp.	Shell Companies	321.25M
+AFYA	Afya Limited	Education & Training Services	1.08B
+AG	First Majestic Silver Corp.	Silver	1.74B
+AGAC	African Gold Acquisition Corporation	Shell Companies	162.47M
+AGAE	Allied Gaming & Entertainment Inc.	Entertainment	39.09M
+AGBA	AGBA Acquisition Limited	Shell Companies	109.03M
+AGCO	AGCO Corporation	Farm & Heavy Construction Machinery	9.23B
+AGE	AgeX Therapeutics, Inc.	Biotechnology	21.45M
+AGEN	Agenus Inc.	Biotechnology	476.62M
+AGFY	Agrify Corporation	Engineering & Construction	4.45M
+AGI	Alamos Gold Inc.	Gold	5.21B
+AGIL	AgileThought, Inc.	Software - Application	70.55M
+AGIO	Agios Pharmaceuticals, Inc.	Biotechnology	1.37B
+AGL	agilon health, inc.	Medical Care Facilities	10.70B
+AGLE	Aeglea BioTherapeutics, Inc.	Biotechnology	10.42M
+AGM	Federal Agricultural Mortgage Corporation	Credit Services	1.42B
+AGM.A	Federal Agricultural Mortgage Corporation	Credit Services	1.37B
+AGMH	AGM Group Holdings Inc.	Software - Application	54.09M
+AGNC	AGNC Investment Corp.	REIT - Mortgage	5.53B
+AGO	Assured Guaranty Ltd.	Insurance - Specialty	3.09B
+AGR	Avangrid, Inc.	Utilities - Regulated Electric	15.78B
+AGRI	AgriFORCE Growing Systems Ltd.	Farm Products	9.60M
+AGRO	Adecoagro S.A.	Farm Products	957.86M
+AGRX	Agile Therapeutics, Inc.	Drug Manufacturers - Specialty & Generic	5.42M
+AGS	PlayAGS, Inc.	Gambling	214.77M
+AGTI	Agiliti, Inc.	Health Information Services	2.19B
+AGX	Argan, Inc.	Engineering & Construction	553.05M
+AGYS	Agilysys, Inc.	Software - Application	1.95B
+AHCO	AdaptHealth Corp.	Medical Devices	1.39B
+AHG	Akso Health Group	Credit Services	8.17M
+AHH	Armada Hoffler Properties, Inc.	REIT - Diversified	1.00B
+AHI	Advanced Human Imaging Limited	Software - Application	9.96M
+AHRN	Ahren Acquisition Corp.	Shell Companies	393.19M
+AHT	Ashford Hospitality Trust, Inc.	REIT - Hotel & Motel	149.57M
+AI	C3.ai, Inc.	Information Technology Services	2.13B
+AIB	AIB Acquisition Corporation	Shell Companies	38.43M
+AIG	American International Group, Inc.	Insurance - Diversified	37.92B
+AIH	Aesthetic Medical International Holdings Group Limited	Medical Care Facilities	39.61M
+AIHS	Senmiao Technology Limited	Credit Services	7.05M
+AIM	AIM ImmunoTech Inc.	Biotechnology	21.78M
+AIMAU	Aimfinity Investment Corp. I	Shell Companies	82.45M
+AIMD	Ainos, Inc.	Biotechnology	14.41M
+AIN	Albany International Corp.	Textile Manufacturing	2.83B
+AINC	Ashford Inc.	Asset Management	34.94M
+AIP	Arteris, Inc.	Semiconductors	157.21M
+AIR	AAR Corp.	Aerospace & Defense	1.80B
+AIRC	Apartment Income REIT Corp.	REIT - Residential	5.33B
+AIRG	Airgain, Inc.	Communication Equipment	59.79M
+AIRI	Air Industries Group	Aerospace & Defense	12.22M
+AIRS	AirSculpt Technologies, Inc.	Medical Care Facilities	378.83M
+AIRT	Air T, Inc.	Integrated Freight & Logistics	74.72M
+AIT	Applied Industrial Technologies, Inc.	Industrial Distribution	4.97B
+AIU	Meta Data Limited	Education & Training Services	39.46M
+AIV	Apartment Investment and Management Company	REIT - Residential	1.26B
+AIXI	Xiao-I Corporation	Software - Application	125.40M
+AIZ	Assurant, Inc.	Insurance - Specialty	6.85B
+AJG	Arthur J. Gallagher & Co.	Insurance Brokers	46.54B
+AJRD	Aerojet Rocketdyne Holdings, Inc.	Aerospace & Defense	4.52B
+AJX	Great Ajax Corp.	REIT - Mortgage	125.17M
+AKA	a.k.a. Brands Holding Corp.	Internet Retail	49.05M
+AKAM	Akamai Technologies, Inc.	Software - Infrastructure	13.27B
+AKAN	Akanda Corp.	Drug Manufacturers - Specialty & Generic	3.81M
+AKBA	Akebia Therapeutics, Inc.	Biotechnology	207.59M
+AKLI	Akili, Inc.	Health Information Services	97.63M
+AKO.A	Embotelladora Andina S.A.	Beverages - Non-Alcoholic	2.23B
+AKO.B	Embotelladora Andina S.A.	Beverages - Non-Alcoholic	2.52B
+AKR	Acadia Realty Trust	REIT - Retail	1.35B
+AKRO	Akero Therapeutics, Inc.	Biotechnology	2.18B
+AKTS	Akoustis Technologies, Inc.	Communication Equipment	196.42M
+AKTX	Akari Therapeutics, Plc	Biotechnology	18.34M
+AKU	Akumin Inc.	Diagnostics & Research	38.01M
+AKYA	Akoya Biosciences, Inc.	Medical Instruments & Supplies	232.70M
+AL	Air Lease Corporation	Rental & Leasing Services	4.24B
+ALAR	Alarum Technologies Ltd.	Software - Infrastructure	6.42M
+ALB	Albemarle Corporation	Specialty Chemicals	23.13B
+ALBT	Avalon GloboCare Corp.	Real Estate Services	17.70M
+ALC	Alcon Inc.	Medical Instruments & Supplies	38.98B
+ALCC	AltC Acquisition Corp.	Shell Companies	664.10M
+ALCO	Alico, Inc.	Farm Products	173.40M
+ALCY	Alchemy Investments Acquisition Corp 1	Shell Companies	132.26M
+ALDX	Aldeyra Therapeutics, Inc.	Biotechnology	596.89M
+ALE	ALLETE, Inc.	Utilities - Diversified	3.56B
+ALEC	Alector, Inc.	Biotechnology	599.51M
+ALEX	Alexander & Baldwin, Inc.	REIT - Diversified	1.35B
+ALG	Alamo Group Inc.	Farm & Heavy Construction Machinery	2.14B
+ALGM	Allegro MicroSystems, Inc.	Semiconductors	7.30B
+ALGN	Align Technology, Inc.	Medical Devices	22.57B
+ALGS	Aligos Therapeutics, Inc.	Biotechnology	44.87M
+ALGT	Allegiant Travel Company	Airlines	1.81B
+ALHC	Alignment Healthcare, Inc.	Healthcare Plans	1.32B
+ALIM	Alimera Sciences, Inc.	Drug Manufacturers - Specialty & Generic	12.88M
+ALIT	Alight, Inc.	Software - Application	4.59B
+ALK	Alaska Air Group, Inc.	Airlines	5.47B
+ALKS	Alkermes plc	Biotechnology	5.18B
+ALKT	Alkami Technology, Inc.	Software - Application	1.21B
+ALL	The Allstate Corporation	Insurance - Property & Casualty	31.18B
+ALLE	Allegion plc	Security & Protection Services	9.52B
+ALLG	Allego N.V.	Auto Parts	579.86M
+ALLK	Allakos Inc.	Biotechnology	382.60M
+ALLO	Allogene Therapeutics, Inc.	Biotechnology	893.28M
+ALLR	Allarity Therapeutics, Inc.	Biotechnology	1.54M
+ALLT	Allot Ltd.	Software - Infrastructure	102.25M
+ALLY	Ally Financial Inc.	Credit Services	7.53B
+ALNY	Alnylam Pharmaceuticals, Inc.	Biotechnology	25.84B
+ALOR	ALSP Orchid Acquisition Corporation I	Shell Companies	74.91M
+ALOT	AstroNova, Inc.	Computer Hardware	111.01M
+ALPA	Alpha Healthcare Acquisition Corp. III	Shell Companies	201.25M
+ALPN	Alpine Immune Sciences, Inc.	Biotechnology	383.25M
+ALPP	Alpine 4 Holdings, Inc.	Metal Fabrication	61.88M
+ALPS	Alpine Summit Energy Partners, Inc.	Oil & Gas E&P	24.90M
+ALRM	Alarm.com Holdings, Inc.	Software - Application	2.40B
+ALRN	Aileron Therapeutics, Inc.	Biotechnology	7.23M
+ALRS	Alerus Financial Corporation	Banks - Regional	273.81M
+ALSA	Alpha Star Acquisition Corporation	Shell Companies	155.11M
+ALSN	Allison Transmission Holdings, Inc.	Auto Parts	4.35B
+ALT	Altimmune, Inc.	Biotechnology	256.99M
+ALTG	Alta Equipment Group Inc.	Rental & Leasing Services	464.48M
+ALTI	AlTi Global, Inc.	Asset Management	559.47M
+ALTO	Alto Ingredients, Inc.	Specialty Chemicals	154.49M
+ALTR	Altair Engineering Inc.	Software - Infrastructure	5.31B
+ALTU	Altitude Acquisition Corp.	Shell Companies	89.23M
+ALV	Autoliv, Inc.	Auto Parts	7.62B
+ALVO	Alvotech	Drug Manufacturers - Specialty & Generic	2.46B
+ALVR	AlloVir, Inc.	Biotechnology	369.42M
+ALX	Alexander's, Inc.	REIT - Retail	867.22M
+ALXO	ALX Oncology Holdings Inc.	Biotechnology	270.51M
+ALYA	Alithya Group Inc.	Information Technology Services	185.44M
+ALZN	Alzamend Neuro, Inc.	Biotechnology	50.50M
+AM	Antero Midstream Corporation	Oil & Gas Midstream	5.07B
+AMAL	Amalgamated Financial Corp.	Banks - Regional	436.71M
+AMAM	Ambrx Biopharma Inc.	Biotechnology	621.14M
+AMAO	American Acquisition Opportunity Inc.	Shell Companies	35.45M
+AMAT	Applied Materials, Inc.	Semiconductor Equipment & Materials	98.17B
+AMBA	Ambarella, Inc.	Semiconductor Equipment & Materials	2.57B
+AMBC	Ambac Financial Group, Inc.	Insurance - Specialty	656.03M
+AMBI	Ambipar Emergency Response	Waste Management	349.30M
+AMBO	Ambow Education Holding Ltd.	Education & Training Services	6.30M
+AMBP	Ardagh Metal Packaging S.A.	Packaging & Containers	2.16B
+AMC	AMC Entertainment Holdings, Inc.	Entertainment	4.25B
+AMCR	Amcor plc	Packaging & Containers	15.24B
+AMCX	AMC Networks Inc.	Entertainment	666.91M
+AMD	Advanced Micro Devices, Inc.	Semiconductors	153.21B
+AME	AMETEK, Inc.	Specialty Industrial Machinery	33.44B
+AMED	Amedisys, Inc.	Medical Care Facilities	2.61B
+AMEH	Apollo Medical Holdings, Inc.	Medical Care Facilities	1.57B
+AMG	Affiliated Managers Group, Inc.	Asset Management	5.07B
+AMGN	Amgen Inc.	Drug Manufacturers - General	123.86B
+AMH	American Homes 4 Rent	REIT - Residential	14.38B
+AMK	AssetMark Financial Holdings, Inc.	Asset Management	2.06B
+AMKR	Amkor Technology, Inc.	Semiconductors	5.26B
+AMLI	American Lithium Corp.	Other Industrial Metals & Mining	452.34M
+AMLX	Amylyx Pharmaceuticals, Inc.	Biotechnology	1.89B
+AMN	AMN Healthcare Services, Inc.	Medical Care Facilities	3.74B
+AMNB	American National Bankshares Inc.	Banks - Regional	275.69M
+AMOT	Allied Motion Technologies Inc.	Electronic Components	557.53M
+AMP	Ameriprise Financial, Inc.	Asset Management	30.74B
+AMPE	Ampio Pharmaceuticals, Inc.	Biotechnology	3.59M
+AMPG	AmpliTech Group, Inc.	Communication Equipment	27.79M
+AMPH	Amphastar Pharmaceuticals, Inc.	Drug Manufacturers - Specialty & Generic	2.01B
+AMPL	Amplitude, Inc.	Software - Application	1.27B
+AMPS	Altus Power, Inc.	Utilities - Renewable	753.61M
+AMPX	Amprius Technologies, Inc.	Electrical Equipment & Parts	735.43M
+AMPY	Amplify Energy Corp.	Oil & Gas E&P	260.33M
+AMR	Alpha Metallurgical Resources, Inc.	Coking Coal	2.39B
+AMRC	Ameresco, Inc.	Engineering & Construction	2.25B
+AMRK	A-Mark Precious Metals, Inc.	Capital Markets	882.38M
+AMRN	Amarin Corporation plc	Biotechnology	499.53M
+AMRS	Amyris, Inc.	Specialty Chemicals	239.19M
+AMRX	Amneal Pharmaceuticals, Inc.	Drug Manufacturers - Specialty & Generic	568.11M
+AMS	American Shared Hospital Services	Medical Care Facilities	16.44M
+AMSC	American Superconductor Corporation	Specialty Industrial Machinery	126.98M
+AMSF	AMERISAFE, Inc.	Insurance - Specialty	1.06B
+AMST	Amesite Inc.	Software - Application	9.02M
+AMSWA	American Software, Inc.	Software - Application	411.43M
+AMT	American Tower Corporation	REIT - Specialty	92.26B
+AMTB	Amerant Bancorp Inc.	Banks - Regional	544.06M
+AMTD	AMTD IDEA Group	Asset Management	3.65B
+AMTI	Applied Molecular Transport Inc.	Biotechnology	11.42M
+AMTX	Aemetis, Inc.	Oil & Gas Refining & Marketing	68.01M
+AMV	Atlis Motor Vehicles, Inc.	Auto Parts	16.57M
+AMWD	American Woodmark Corporation	Furnishings, Fixtures & Appliances	863.54M
+AMWL	American Well Corporation	Health Information Services	544.57M
+AMX	América Móvil, SAB de CV	Telecom Services	69.34B
+AMZN	Amazon.com, Inc.	Internet Retail	1,140.85B
+AN	AutoNation, Inc.	Auto & Truck Dealerships	6.09B
+ANAB	AnaptysBio, Inc.	Biotechnology	529.07M
+ANDE	The Andersons, Inc.	Food Distribution	1.26B
+ANEB	Anebulo Pharmaceuticals, Inc.	Biotechnology	59.60M
+ANET	Arista Networks, Inc.	Computer Hardware	42.58B
+ANF	Abercrombie & Fitch Co.	Apparel Retail	1.18B
+ANGH	Anghami Inc.	Entertainment	29.91M
+ANGI	Angi Inc.	Internet Content & Information	1.32B
+ANGN	Angion Biomedica Corp.	Biotechnology	24.74M
+ANGO	AngioDynamics, Inc.	Medical Instruments & Supplies	358.27M
+ANIK	Anika Therapeutics, Inc.	Medical Devices	369.99M
+ANIP	ANI Pharmaceuticals, Inc.	Drug Manufacturers - Specialty & Generic	719.67M
+ANIX	Anixa Biosciences, Inc.	Biotechnology	116.35M
+ANNX	Annexon, Inc.	Biotechnology	296.19M
+ANPC	AnPac Bio-Medical Science Co., Ltd.	Biotechnology	29.66M
+ANSS	ANSYS, Inc.	Software - Application	25.58B
+ANTE	AirNet Technology Inc.	Telecom Services	10.53M
+ANTX	AN2 Therapeutics, Inc.	Biotechnology	98.89M
+ANVS	Annovis Bio, Inc.	Biotechnology	135.08M
+ANY	Sphere 3D Corp.	Software - Application	28.37M
+ANZU	Anzu Special Acquisition Corp I	Shell Companies	151.32M
+AOGO	Arogo Capital Acquisition Corp.	Shell Companies	140.47M
+AOMR	Angel Oak Mortgage, Inc.	REIT - Mortgage	194.21M
+AON	Aon plc	Insurance Brokers	68.46B
+AORT	Artivion, Inc.	Medical Devices	601.69M
+AOS	A. O. Smith Corporation	Specialty Industrial Machinery	10.31B
+AOSL	Alpha and Omega Semiconductor Limited	Semiconductors	669.15M
+AOUT	American Outdoor Brands, Inc.	Leisure	103.28M
+AP	Ampco-Pittsburgh Corporation	Metal Fabrication	59.10M
+APA	APA Corporation	Oil & Gas E&P	10.19B
+APAC	StoneBridge Acquisition Corporation	Shell Companies	85.72M
+APAM	Artisan Partners Asset Management Inc.	Asset Management	2.58B
+APCA	AP Acquisition Corp.	Shell Companies	231.15M
+APCX	AppTech Payments Corp.	Software - Infrastructure	31.87M
+APD	Air Products and Chemicals, Inc.	Specialty Chemicals	61.39B
+APDN	Applied DNA Sciences, Inc.	Diagnostics & Research	14.05M
+APEI	American Public Education, Inc.	Education & Training Services	102.05M
+APG	APi Group Corporation	Engineering & Construction	5.26B
+APGB	Apollo Strategic Growth Capital II	Shell Companies	880.18M
+APGN	Apexigen, Inc.	Biotechnology	10.59M
+APH	Amphenol Corporation	Electronic Components	44.61B
+API	Agora, Inc.	Software - Application	317.40M
+APLD	Applied Digital Corporation	Capital Markets	310.33M
+APLE	Apple Hospitality REIT, Inc.	REIT - Hotel & Motel	3.51B
+APLM	Apollomics Inc.	Biotechnology	61.23M
+APLS	Apellis Pharmaceuticals, Inc.	Biotechnology	10.26B
+APLT	Applied Therapeutics, Inc.	Biotechnology	89.09M
+APM	Aptorum Group Limited	Biotechnology	13.03M
+APMI	AxonPrime Infrastructure Acquisition Corporation	Shell Companies	191.91M
+APO	Apollo Global Management, Inc.	Asset Management	36.24B
+APOG	Apogee Enterprises, Inc.	Building Products & Equipment	883.92M
+APP	AppLovin Corporation	Software - Application	8.06B
+APPF	AppFolio, Inc.	Software - Application	5.10B
+APPH	AppHarvest, Inc.	Farm Products	76.80M
+APPN	Appian Corporation	Software - Infrastructure	2.46B
+APPS	Digital Turbine, Inc.	Software - Application	1.22B
+APRE	Aprea Therapeutics, Inc.	Biotechnology	14.57M
+APRN	Blue Apron Holdings, Inc.	Internet Retail	32.70M
+APT	Alpha Pro Tech, Ltd.	Building Products & Equipment	48.38M
+APTM	Alpha Partners Technology Merger Corp.	Shell Companies	371.54M
+APTO	Aptose Biosciences Inc.	Biotechnology	49.52M
+APTV	Aptiv PLC	Auto Parts	25.09B
+APTX	Aptinyx Inc.	Biotechnology	6.44M
+APVO	Aptevo Therapeutics Inc.	Biotechnology	11.80M
+APWC	Asia Pacific Wire & Cable Corporation Limited	Electrical Equipment & Parts	34.96M
+APXI	APx Acquisition Corp. I	Shell Companies	114.78M
+APYX	Apyx Medical Corporation	Medical Devices	169.53M
+AQB	AquaBounty Technologies, Inc.	Farm Products	37.49M
+AQMS	Aqua Metals, Inc.	Waste Management	93.22M
+AQN	Algonquin Power & Utilities Corp.	Utilities - Renewable	5.97B
+AQST	Aquestive Therapeutics, Inc.	Drug Manufacturers - Specialty & Generic	130.86M
+AQU	Aquaron Acquisition Corp.	Shell Companies	73.17M
+AQUA	Evoqua Water Technologies Corp.	Pollution & Treatment Controls	6.10B
+AR	Antero Resources Corporation	Oil & Gas E&P	6.25B
+ARAV	Aravive, Inc.	Biotechnology	102.04M
+ARAY	Accuray Incorporated	Medical Devices	341.39M
+ARBB	ARB IOT Group Limited	Information Technology Services	107.04M
+ARBE	Arbe Robotics Ltd.	Software - Infrastructure	134.88M
+ARBG	Aequi Acquisition Corp.	Shell Companies	94.79M
+ARBK	Argo Blockchain plc	Capital Markets	67.70M
+ARC	ARC Document Solutions, Inc.	Specialty Business Services	127.42M
+ARCB	ArcBest Corporation	Trucking	2.09B
+ARCC	Ares Capital Corporation	Asset Management	9.98B
+ARCE	Arco Platform Limited	Education & Training Services	804.29M
+ARCH	Arch Resources, Inc.	Thermal Coal	2.34B
+ARCO	Arcos Dorados Holdings Inc.	Restaurants	1.72B
+ARCT	Arcturus Therapeutics Holdings Inc.	Biotechnology	831.16M
+ARDS	Aridis Pharmaceuticals, Inc.	Biotechnology	7.76M
+ARDX	Ardelyx, Inc.	Biotechnology	917.90M
+ARE	Alexandria Real Estate Equities, Inc.	REIT - Office	20.65B
+AREB	American Rebel Holdings, Inc.	Footwear & Accessories	2.78M
+AREC	American Resources Corporation	Coking Coal	117.97M
+AREN	The Arena Group Holdings, Inc.	Internet Content & Information	82.02M
+ARES	Ares Management Corporation	Asset Management	24.56B
+ARGO	Argo Group International Holdings, Ltd.	Insurance - Property & Casualty	1.03B
+ARGX	argenx SE	Biotechnology	22.42B
+ARHS	Arhaus, Inc.	Home Improvement Retail	1.17B
+ARI	Apollo Commercial Real Estate Finance, Inc.	REIT - Mortgage	1.36B
+ARIS	Aris Water Solutions, Inc.	Utilities - Regulated Water	838.97M
+ARIZ	Arisz Acquisition Corp.	Shell Companies	93.38M
+ARKO	Arko Corp.	Specialty Retail	872.75M
+ARKR	Ark Restaurants Corp.	Restaurants	63.48M
+ARL	American Realty Investors, Inc.	Real Estate - Development	298.74M
+ARLO	Arlo Technologies, Inc.	Security & Protection Services	787.12M
+ARLP	Alliance Resource Partners, L.P.	Thermal Coal	2.34B
+ARMK	Aramark	Specialty Business Services	9.68B
+ARMP	Armata Pharmaceuticals, Inc.	Biotechnology	44.82M
+ARNC	Arconic Corporation	Metal Fabrication	2.91B
+AROC	Archrock, Inc.	Oil & Gas Equipment & Services	1.56B
+AROW	Arrow Financial Corporation	Banks - Regional	326.40M
+ARQQ	Arqit Quantum Inc.	Software - Infrastructure	125.24M
+ARQT	Arcutis Biotherapeutics, Inc.	Biotechnology	758.56M
+ARR	ARMOUR Residential REIT, Inc.	REIT - Mortgage	974.63M
+ARRW	Arrowroot Acquisition Corp.	Shell Companies	120.06M
+ARRY	Array Technologies, Inc.	Solar	3.38B
+ARTE	Artemis Strategic Investment Corporation	Shell Companies	262.38M
+ARTL	Artelo Biosciences, Inc.	Biotechnology	4.80M
+ARTNA	Artesian Resources Corporation	Utilities - Regulated Water	510.84M
+ARTW	Art's-Way Manufacturing Co., Inc.	Farm & Heavy Construction Machinery	12.77M
+ARVL	Arrival	Auto Manufacturers	31.90M
+ARVN	Arvinas, Inc.	Biotechnology	1.23B
+ARW	Arrow Electronics, Inc.	Electronics & Computer Distribution	6.70B
+ARWR	Arrowhead Pharmaceuticals, Inc.	Biotechnology	4.11B
+ARYD	ARYA Sciences Acquisition Corp IV	Shell Companies	162.06M
+ARYE	ARYA Sciences Acquisition Corp V	Shell Companies	196.85M
+ASA	ASA Gold and Precious Metals Limited	Asset Management	322.14M
+ASAI	Sendas Distribuidora S.A.	Grocery Stores	3.20B
+ASAN	Asana, Inc.	Software - Application	3.60B
+ASB	Associated Banc-Corp	Banks - Regional	2.22B
+ASC	Ardmore Shipping Corporation	Marine Shipping	536.67M
+ASCA	A SPAC I Acquisition Corp.	Shell Companies	56.93M
+ASCB	A SPAC II Acquisition Corporation	Shell Companies	264.64M
+ASGN	ASGN Incorporated	Information Technology Services	3.19B
+ASH	Ashland Inc.	Specialty Chemicals	4.76B
+ASIX	AdvanSix Inc.	Chemicals	934.44M
+ASLE	AerSale Corporation	Airports & Air Services	842.88M
+ASLN	ASLAN Pharmaceuticals Limited	Biotechnology	75.36M
+ASM	Avino Silver & Gold Mines Ltd.	Other Precious Metals & Mining	91.20M
+ASMB	Assembly Biosciences, Inc.	Biotechnology	53.16M
+ASML	ASML Holding N.V.	Semiconductor Equipment & Materials	255.66B
+ASND	Ascendis Pharma A/S	Biotechnology	5.34B
+ASNS	Actelis Networks, Inc.	Communication Equipment	6.13M
+ASO	Academy Sports and Outdoors, Inc.	Specialty Retail	4.64B
+ASPA	Abri SPAC I, Inc.	Shell Companies	78.72M
+ASPI	ASP Isotopes Inc.	Chemicals	16.13M
+ASPN	Aspen Aerogels, Inc.	Building Products & Equipment	530.04M
+ASPS	Altisource Portfolio Solutions S.A.	Real Estate Services	83.88M
+ASR	Grupo Aeroportuario del Sureste, S. A. B. de C. V.	Airports & Air Services	8.59B
+ASRT	Assertio Holdings, Inc.	Drug Manufacturers - Specialty & Generic	423.05M
+ASRV	AmeriServ Financial, Inc.	Banks - Regional	49.13M
+ASST	Asset Entities Inc.	Internet Content & Information	12.95M
+ASTC	Astrotech Corporation	Aerospace & Defense	18.53M
+ASTE	Astec Industries, Inc.	Farm & Heavy Construction Machinery	891.83M
+ASTI	Ascent Solar Technologies, Inc.	Solar	51.57M
+ASTL	Algoma Steel Group Inc.	Steel	738.96M
+ASTR	Astra Space, Inc.	Aerospace & Defense	100.65M
+ASTS	AST SpaceMobile, Inc.	Telecom Services	1.10B
+ASUR	Asure Software, Inc.	Software - Application	284.00M
+ASX	ASE Technology Holding Co., Ltd.	Semiconductors	14.85B
+ASXC	Asensus Surgical, Inc.	Medical Devices	149.06M
+ASYS	Amtech Systems, Inc.	Semiconductor Equipment & Materials	125.23M
+ATAI	Atai Life Sciences N.V.	Biotechnology	323.72M
+ATAK	Aurora Technology Acquisition Corp.	Shell Companies	115.41M
+ATAQ	Altimar Acquisition Corp. III	Shell Companies	80.50M
+ATAT	Atour Lifestyle Holdings Limited	Lodging	2.49B
+ATEC	Alphatec Holdings, Inc.	Medical Devices	1.81B
+ATEK	Athena Technology Acquisition Corp. II	Shell Companies	362.66M
+ATEN	A10 .Networks, Inc.	Software - Infrastructure	1.04B
+ATER	Aterian, Inc.	Furnishings, Fixtures & Appliances	53.40M
+ATEX	Anterix Inc.	Telecom Services	587.39M
+ATGE
